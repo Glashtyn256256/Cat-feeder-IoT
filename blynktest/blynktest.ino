@@ -13,7 +13,7 @@ SoftwareSerial s(D6,D5);
 char auth[] = "KI5X0r2UxFp3zDvToscJpNlj8f1PiE2K"; //Enter the Auth codethat is given to you by blynk
 
 char ssid[] = "BrindLetting01";  //Enter your WIFI Name
-char pass[] = "Brind1234!";  //Enter your WIFI Password
+char pass[] = "";  //Enter your WIFI Password
 
 
 
